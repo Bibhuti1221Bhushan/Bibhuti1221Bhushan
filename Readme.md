@@ -1,4 +1,4 @@
-<a href="#"><img src="../Pictures/Hinata.png?raw=true" width="100%" height="auto"/></a>
+<a href="#"><img src="/Pictures/Hinata.png?raw=true" width="100%" height="auto"/></a>
 <br/>
 
 <p>
