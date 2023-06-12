@@ -14,6 +14,6 @@
 
 - 📫 Feel Free To Reach Me - **Bibhuti1221Bhushan@gmail.com**
 
- <img align="right" alt="coding_img" width="380" height="400" src="/Pictures/Molecule-3D.png">
+ <img align="right" alt="" width="auto" height="400" src="/Pictures/Molecule-3D.png">
 
 </div>
