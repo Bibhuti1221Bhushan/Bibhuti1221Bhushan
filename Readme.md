@@ -1,4 +1,4 @@
-<a href="#"><img src="[/Pictures/Hinata.png](https://github.com/Bibhuti1221Bhushan/Musics/blob/Global/Hinata.png)" width="100%" height="auto"/></a>
+<a href="#"><img src="https://github.com/Bibhuti1221Bhushan/Musics/blob/Global/Hinata.png?raw=true" width="100%" height="auto"/></a>
 <br/>
 
 <p>
