@@ -1,4 +1,4 @@
-<a href="https://discord.gg/pochita"><img src="https://github.com/Bibhuti1221Bhushan/Bibhuti1221Bhushan/blob/Global/Github/Hinata.png" width="100%" height="auto"/></a>
+<a href="#"><img src="../Pictures/Hinata.png?raw=true" width="100%" height="auto"/></a>
 <br/>
 
 <p>
