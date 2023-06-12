@@ -1,20 +1,19 @@
 <a href=""><img src="/Pictures/Hinata.png?raw=true" width="100%" height="auto"/></a>
 <br/>
-<h1 align="center">Hello <img src="/Pictures/Hello-Emoji.webp" width="25px">, I'm Bibhuti Bhushan a Student of Math Honours But Having Toooooo Much Interest in Computer.</h1>
-<h3 align="left">More Info : </h3>
-
-
- 
+<h1 align="center">Hello <img src="/Pictures/Hello-Emoji.webp" width="25px">, I'm Bibhuti Bhushan.</h1>
+<h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More Informations : </h3>
 <div style="display:flex">
-  <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🔭 I’m currently working on [foodie](https://github.com/BlackDagger007/foodie)
+- 🔭 I’m Currently Working on **[Personal-Dots.](https://github.com/Bibhuti1221Bhushan/Personal-Dots)**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m Currently Learning **Linux,** **College&nbsp;Subjects.**
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+- 🤔 I’m Looking For Community To Learn About **Linux.**
 
-- 💬 Ask me about **flutter, firebase, nodejs**
+- ⚱️ Fun Fact - I'm **Anime Addicted.**
 
-- 📫 How to reach me **mailwahab247@gmail.com**
+- 📫 Feel Free To Reach Me - **Bibhuti1221Bhushan@gmail.com**
+
+ <img align="right" alt="coding_img" width="380" src="/Pictures/Molecule-3D.png">
+
 </div>
