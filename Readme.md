@@ -3,7 +3,6 @@
 <h1 align="center">Hello <img src="/Pictures/Hello-Emoji.webp" width="25px">, I'm Bibhuti Bhushan.</h1>
 <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;More Informations : </h3>
 <div style="display:flex">
-<img align="right" alt="" width="auto" height="190" src="/Pictures/Snake-Game.svg">
 
 - 🔭 I’m Currently Working on **[Personal-Dots.](https://github.com/Bibhuti1221Bhushan/Personal-Dots)**
 
@@ -15,4 +14,5 @@
 
 - 📫 Feel Free To Reach Me - **Bibhuti1221Bhushan@gmail.com**
 
+<img align="center" alt="" width="auto" height="auto" src="/Pictures/Snake-Game.svg">
 </div>
